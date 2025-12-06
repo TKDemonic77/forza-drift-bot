@@ -1,0 +1,28 @@
+{
+    "RWD": {
+        "Fujimi Kaido": {
+            "Fujimi Circuit": {
+                "tkdemonic77": 100000
+            }
+        },
+        "Brands Hatch": {
+            "Grand Prix Circuit": {
+                "tkdemonic77": 5000
+            }
+        }
+    },
+    "AWD": {
+        "Fujimi Kaido": {
+            "Fujimi Circuit": {
+                "tkdemonic77": 50000
+            }
+        }
+    },
+    "FWD": {
+        "Fujimi Kaido": {
+            "Fujimi Circuit": {
+                "tkdemonic77": 50000
+            }
+        }
+    }
+}
